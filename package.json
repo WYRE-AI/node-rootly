@@ -48,11 +48,11 @@
     "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "^6.0.0",
-    "@semantic-release/git": "^10.0.0",
-    "@types/node": "^26.1.0",
-    "msw": "^2.14.6",
-    "semantic-release": "^25.0.5",
+    "@semantic-release/changelog": "^7.0.0",
+    "@semantic-release/git": "^11.0.1",
+    "@types/node": "^26.2.0",
+    "msw": "^2.15.0",
+    "semantic-release": "^25.0.9",
     "tsup": "^8.0.0",
     "typescript": "^6.0.3",
     "vitest": "^4.1.10"
