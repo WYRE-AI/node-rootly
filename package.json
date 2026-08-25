@@ -1,6 +1,6 @@
 {
   "name": "@wyre-ai/node-rootly",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.js client library for the Rootly incident management API",
   "type": "module",
   "main": "./dist/index.cjs",

@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/WYRE-AI/node-rootly/compare/v1.0.2...v1.0.3) (2026-08-25)
+
+
+### Bug Fixes
+
+* migrate to WYRE-AI org (npm scope, ghcr namespace, registry) ([#24](https://github.com/WYRE-AI/node-rootly/issues/24)) ([c2294a7](https://github.com/WYRE-AI/node-rootly/commit/c2294a79b5b2105a080978820b9dab61df17b814))
+
 ## [1.0.2](https://github.com/wyre-technology/node-rootly/compare/v1.0.1...v1.0.2) (2026-05-22)
 
 
