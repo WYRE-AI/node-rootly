@@ -1,5 +1,5 @@
 {
-  "name": "@wyre-technology/node-rootly",
+  "name": "@wyre-ai/node-rootly",
   "version": "1.0.2",
   "description": "Node.js client library for the Rootly incident management API",
   "type": "module",
@@ -36,13 +36,13 @@
     "on-call",
     "api-client",
     "msp",
-    "wyre-technology"
+    "wyre-ai"
   ],
   "author": "WYRE Technology",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wyre-technology/node-rootly.git"
+    "url": "https://github.com/WYRE-AI/node-rootly.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"

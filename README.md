@@ -1,4 +1,4 @@
-# @wyre-technology/node-rootly
+# @wyre-ai/node-rootly
 
 Node.js client library for the [Rootly](https://rootly.com) incident management API.
 
@@ -7,20 +7,20 @@ Zero production dependencies. Uses native `fetch` (Node 18+).
 ## Installation
 
 ```bash
-npm install @wyre-technology/node-rootly
+npm install @wyre-ai/node-rootly
 ```
 
 For GitHub Packages authentication, add to your `.npmrc`:
 
 ```
-@wyre-technology:registry=https://npm.pkg.github.com
+@wyre-ai:registry=https://npm.pkg.github.com
 //npm.pkg.github.com/:_authToken=YOUR_GITHUB_TOKEN
 ```
 
 ## Usage
 
 ```typescript
-import { RootlyClient } from '@wyre-technology/node-rootly';
+import { RootlyClient } from '@wyre-ai/node-rootly';
 
 const client = new RootlyClient({ apiToken: process.env.ROOTLY_API_TOKEN });
 
@@ -84,7 +84,7 @@ const client = new RootlyClient({ apiToken?: string });
 ## Development
 
 ```bash
-git clone https://github.com/wyre-technology/node-rootly.git
+git clone https://github.com/WYRE-AI/node-rootly.git
 cd node-rootly
 npm install
 npm run build
