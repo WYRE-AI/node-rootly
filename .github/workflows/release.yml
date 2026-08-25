@@ -39,7 +39,7 @@ jobs:
           node-version: 22
           # CRITICAL: registry-url tells npm publish to push to GitHub Packages
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@wyre-technology'
+          scope: '@wyre-ai'
           cache: npm
       - run: npm ci && npm run build
       - run: npx semantic-release
